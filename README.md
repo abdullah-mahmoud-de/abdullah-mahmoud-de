@@ -44,9 +44,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50" alt="Spark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark" height="50" alt="Spark" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="Kafka" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" height="50" alt="Airflow" />
   <img width="12" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="50" alt="SQL" />
   <img width="12" />
@@ -54,7 +56,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="50" alt="snowflake logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" height="50" alt="Snowflake" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql" />
   <img width="12" />
