@@ -44,17 +44,23 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python" />
   <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark" height="50" alt="Spark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark" height="50" alt="PySpark" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sparksql" height="50" alt="SparkSQL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="Kafka" />
   <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" height="50" alt="Airflow" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="50" alt="SQL" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" height="50" alt="ETL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="50" alt="Amazon Lambda" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="50" alt="Amazon S3" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=glue" height="50" alt="Amazon Glue" />
   <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" height="50" alt="Snowflake" />
   <img width="12" />
