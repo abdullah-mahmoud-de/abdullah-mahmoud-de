@@ -18,7 +18,7 @@
 - [**YouTube AWS Serverless Data Pipeline:**](https://github.com/AbdullahMahmoud23/youtube-data-engineering-pipeline) Designed an end-to-end data engineering pipeline leveraging AWS (Glue, Lambda) and Snowflake for robust data processing and cleansing.
 - **AI Shift Management Agent:** Developed an AI-driven agent to manage employee tracking and shift logic, implementing automated "Rollover" (deficit) and "Extinguisher" (surplus) logic using Grok and Gemini.
 - [**IBM Data Engineering Capstone:**](https://github.com/AbdullahMahmoud23/ibm-data-engineering-capstone-project) Applied comprehensive data engineering skills to build scalable data solutions and cloud infrastructure.
-- **Netflix Big Data Processing Pipeline:** Designed and implemented an end-to-end ETL pipeline to process and analyze large-scale streaming data using Apache Spark and Kafka, enabling efficient data transformation and advanced querying via SQL.
+- [**IMDB Serverless ELT Pipeline:**](https://github.com/) Developed a cloud-native ELT pipeline to ingest and process large-scale movie datasets. Leveraged AWS Lambda for event-driven extraction and stored raw data in S3, utilizing Snowflake for scalable transformations and analytics.
 
 - 📄 My Resume
 <p align="center">
