@@ -14,11 +14,11 @@
   *Currently developing the backend data architecture and operational logic for a full-scale factory production management website.*
 
 ### 🛠️ Featured Projects
-- [**Global Weather Analytics Pipeline:**](https://github.com/AbdullahMahmoud23/Global-Weather-Analytics-Pipeline) Built an automated ETL pipeline using Python multithreading to extract live data for 155+ cities, transformed and saved to Parquet, with a real-time Streamlit dashboard.
-- [**YouTube AWS Serverless Data Pipeline:**](https://github.com/AbdullahMahmoud23/youtube-data-engineering-pipeline) Designed an end-to-end data engineering pipeline leveraging AWS (Glue, Lambda) and Snowflake for robust data processing and cleansing.
+- [**Global Weather Analytics Pipeline:**](https://github.com/abdullah-mahmoud-de/Global-Weather-Analytics-Pipeline) Built an automated ETL pipeline using Python multithreading to extract live data for 155+ cities, transformed and saved to Parquet, with a real-time Streamlit dashboard.
+- [**YouTube AWS Serverless Data Pipeline:**](https://github.com/abdullah-mahmoud-de/youtube-data-engineering-pipeline) Designed an end-to-end data engineering pipeline leveraging AWS (Glue, Lambda) and Snowflake for robust data processing and cleansing.
 - **AI Shift Management Agent:** Developed an AI-driven agent to manage employee tracking and shift logic, implementing automated "Rollover" (deficit) and "Extinguisher" (surplus) logic using Grok and Gemini.
-- [**IBM Data Engineering Capstone:**](https://github.com/AbdullahMahmoud23/ibm-data-engineering-capstone-project) Applied comprehensive data engineering skills to build scalable data solutions and cloud infrastructure.
-- [**IMDB Serverless ELT Pipeline:**](https://github.com/) Developed a cloud-native ELT pipeline to ingest and process large-scale movie datasets. Leveraged AWS Lambda for event-driven extraction and stored raw data in S3, utilizing Snowflake for scalable transformations and analytics.
+- [**IBM Data Engineering Capstone:**](https://github.com/abdullah-mahmoud-de/ibm-data-engineering-capstone-project) Applied comprehensive data engineering skills to build scalable data solutions and cloud infrastructure.
+- [**IMDB Serverless ELT Pipeline:**](https://github.com/abdullah-mahmoud-de/imdb-serverless-elt-pipeline) Developed a cloud-native ELT pipeline to ingest and process large-scale movie datasets. Leveraged AWS Lambda for event-driven extraction and stored raw data in S3, utilizing Snowflake for scalable transformations and analytics.
 
 - 📄 My Resume
 <p align="center">
