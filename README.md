@@ -23,7 +23,7 @@
 - 📄 My Resume
 <p align="center">
     &emsp;
-    <a href="/Abdullah-Mahmoud-Data-Engineer-CV.pdf">
+    <a href="/Abdullah-Mahmoud-CV.pdf">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume" />
     </a>
 </p>
